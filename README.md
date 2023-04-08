@@ -1,5 +1,6 @@
 # backdrop
-backdrop engineering challenge
+
+
 About My Project.
 I used an in-memory database (h2 database) for saving registered users. I used name of users to search for them in the database because I do not have a unique property 
 such as email/username, ideally, an email or username is to be used when searching for a user. The name was only used to test the functionality 
